@@ -1,0 +1,241 @@
+{
+  "query": "cat:cs.LG",
+  "papers_processed": 5,
+  "processing_timestamp": "2025-09-30T02:43:45.963517 UTC",
+  "corpus_stats": {
+    "total_abstracts": 5,
+    "total_words": 692,
+    "unique_words_global": 319,
+    "avg_abstract_length": 138.4,
+    "longest_abstract_words": 216,
+    "shortest_abstract_words": 98
+  },
+  "top_50_words": [
+    {
+      "word": "to",
+      "frequency": 14
+    },
+    {
+      "word": "maxq",
+      "frequency": 11
+    },
+    {
+      "word": "for",
+      "frequency": 9
+    },
+    {
+      "word": "learning",
+      "frequency": 8
+    },
+    {
+      "word": "paper",
+      "frequency": 7
+    },
+    {
+      "word": "function",
+      "frequency": 7
+    },
+    {
+      "word": "state",
+      "frequency": 7
+    },
+    {
+      "word": "hierarchical",
+      "frequency": 6
+    },
+    {
+      "word": "q",
+      "frequency": 6
+    },
+    {
+      "word": "policy",
+      "frequency": 6
+    },
+    {
+      "word": "it",
+      "frequency": 5
+    },
+    {
+      "word": "method",
+      "frequency": 5
+    },
+    {
+      "word": "complexity",
+      "frequency": 5
+    },
+    {
+      "word": "value",
+      "frequency": 4
+    },
+    {
+      "word": "abstractions",
+      "frequency": 4
+    },
+    {
+      "word": "under",
+      "frequency": 4
+    },
+    {
+      "word": "approach",
+      "frequency": 3
+    },
+    {
+      "word": "reinforcement",
+      "frequency": 3
+    },
+    {
+      "word": "functions",
+      "frequency": 3
+    },
+    {
+      "word": "five",
+      "frequency": 3
+    },
+    {
+      "word": "conditions",
+      "frequency": 3
+    },
+    {
+      "word": "algorithm",
+      "frequency": 3
+    },
+    {
+      "word": "converges",
+      "frequency": 3
+    },
+    {
+      "word": "optimal",
+      "frequency": 3
+    },
+    {
+      "word": "abstraction",
+      "frequency": 3
+    },
+    {
+      "word": "experimentally",
+      "frequency": 3
+    },
+    {
+      "word": "important",
+      "frequency": 3
+    },
+    {
+      "word": "developed",
+      "frequency": 3
+    },
+    {
+      "word": "dynamics",
+      "frequency": 3
+    },
+    {
+      "word": "constructed",
+      "frequency": 3
+    },
+    {
+      "word": "cost",
+      "frequency": 3
+    },
+    {
+      "word": "order",
+      "frequency": 3
+    },
+    {
+      "word": "natural",
+      "frequency": 3
+    },
+    {
+      "word": "reference",
+      "frequency": 3
+    },
+    {
+      "word": "kolmogorov",
+      "frequency": 3
+    },
+    {
+      "word": "class",
+      "frequency": 3
+    },
+    {
+      "word": "computers",
+      "frequency": 3
+    },
+    {
+      "word": "presents",
+      "frequency": 2
+    },
+    {
+      "word": "decomposing",
+      "frequency": 2
+    },
+    {
+      "word": "target",
+      "frequency": 2
+    },
+    {
+      "word": "mdp",
+      "frequency": 2
+    },
+    {
+      "word": "hierarchy",
+      "frequency": 2
+    },
+    {
+      "word": "smaller",
+      "frequency": 2
+    },
+    {
+      "word": "mdps",
+      "frequency": 2
+    },
+    {
+      "word": "proves",
+      "frequency": 2
+    },
+    {
+      "word": "its",
+      "frequency": 2
+    },
+    {
+      "word": "use",
+      "frequency": 2
+    },
+    {
+      "word": "known",
+      "frequency": 2
+    },
+    {
+      "word": "recursively",
+      "frequency": 2
+    },
+    {
+      "word": "even",
+      "frequency": 2
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [
+      "MAXQ",
+      "MDP",
+      "RL"
+    ],
+    "numeric_terms": [
+      "1"
+    ],
+    "hyphenated_terms": [
+      "locally-optimal",
+      "Newton-like",
+      "real-life",
+      "model-free",
+      "second-order",
+      "non-hierarchical",
+      "Levenberg-Marquardt",
+      "MAXQ-Q"
+    ]
+  },
+  "category_distribution": {
+    "cs.LG": 5,
+    "I.2.6": 2,
+    "G.1.6": 2,
+    "E.4; F.2; I.2": 1
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "query": "au:LeCun",
+  "papers_processed": 3,
+  "processing_timestamp": "2025-09-30T02:43:47.886290 UTC",
+  "corpus_stats": {
+    "total_abstracts": 3,
+    "total_words": 368,
+    "unique_words_global": 194,
+    "avg_abstract_length": 122.66666666666667,
+    "longest_abstract_words": 189,
+    "shortest_abstract_words": 71
+  },
+  "top_50_words": [
+    {
+      "word": "to",
+      "frequency": 17
+    },
+    {
+      "word": "algorithm",
+      "frequency": 7
+    },
+    {
+      "word": "complex",
+      "frequency": 4
+    },
+    {
+      "word": "cells",
+      "frequency": 4
+    },
+    {
+      "word": "over",
+      "frequency": 4
+    },
+    {
+      "word": "features",
+      "frequency": 4
+    },
+    {
+      "word": "units",
+      "frequency": 4
+    },
+    {
+      "word": "similar",
+      "frequency": 4
+    },
+    {
+      "word": "for",
+      "frequency": 3
+    },
+    {
+      "word": "selective",
+      "frequency": 3
+    },
+    {
+      "word": "feature",
+      "frequency": 3
+    },
+    {
+      "word": "give",
+      "frequency": 3
+    },
+    {
+      "word": "under",
+      "frequency": 3
+    },
+    {
+      "word": "compression",
+      "frequency": 3
+    },
+    {
+      "word": "architecture",
+      "frequency": 2
+    },
+    {
+      "word": "learning",
+      "frequency": 2
+    },
+    {
+      "word": "invariant",
+      "frequency": 2
+    },
+    {
+      "word": "representations",
+      "frequency": 2
+    },
+    {
+      "word": "images",
+      "frequency": 2
+    },
+    {
+      "word": "uses",
+      "frequency": 2
+    },
+    {
+      "word": "one",
+      "frequency": 2
+    },
+    {
+      "word": "represents",
+      "frequency": 2
+    },
+    {
+      "word": "image",
+      "frequency": 2
+    },
+    {
+      "word": "constrained",
+      "frequency": 2
+    },
+    {
+      "word": "consecutive",
+      "frequency": 2
+    },
+    {
+      "word": "frames",
+      "frequency": 2
+    },
+    {
+      "word": "sparse",
+      "frequency": 2
+    },
+    {
+      "word": "encoder",
+      "frequency": 2
+    },
+    {
+      "word": "method",
+      "frequency": 2
+    },
+    {
+      "word": "orientation",
+      "frequency": 2
+    },
+    {
+      "word": "local",
+      "frequency": 2
+    },
+    {
+      "word": "receptive",
+      "frequency": 2
+    },
+    {
+      "word": "visual",
+      "frequency": 2
+    },
+    {
+      "word": "cortex",
+      "frequency": 2
+    },
+    {
+      "word": "representation",
+      "frequency": 2
+    },
+    {
+      "word": "data",
+      "frequency": 2
+    },
+    {
+      "word": "fast",
+      "frequency": 2
+    },
+    {
+      "word": "range",
+      "frequency": 2
+    },
+    {
+      "word": "learns",
+      "frequency": 2
+    },
+    {
+      "word": "through",
+      "frequency": 2
+    },
+    {
+      "word": "has",
+      "frequency": 2
+    },
+    {
+      "word": "model",
+      "frequency": 2
+    },
+    {
+      "word": "pixels",
+      "frequency": 2
+    },
+    {
+      "word": "introduce",
+      "frequency": 1
+    },
+    {
+      "word": "new",
+      "frequency": 1
+    },
+    {
+      "word": "neural",
+      "frequency": 1
+    },
+    {
+      "word": "unsupervised",
+      "frequency": 1
+    },
+    {
+      "word": "temporal",
+      "frequency": 1
+    },
+    {
+      "word": "sequence",
+      "frequency": 1
+    },
+    {
+      "word": "system",
+      "frequency": 1
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [],
+    "numeric_terms": [
+      "2",
+      "V1",
+      "1"
+    ],
+    "hyphenated_terms": [
+      "orientation-selective",
+      "feed-forward"
+    ]
+  },
+  "category_distribution": {
+    "cs.NE": 2,
+    "cs.CV": 2
+  }
+}

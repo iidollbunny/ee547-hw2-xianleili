@@ -1,0 +1,108 @@
+[
+  {
+    "arxiv_id": "9905014v1",
+    "title": "Hierarchical Reinforcement Learning with the MAXQ Value Function\n  Decomposition",
+    "authors": [
+      "Thomas G. Dietterich"
+    ],
+    "abstract": "This paper presents the MAXQ approach to hierarchical reinforcement learning\nbased on decomposing the target Markov decision process (MDP) into a hierarchy\nof smaller MDPs and decomposing the value function of the target MDP into an\nadditive combination of the value functions of the smaller MDPs. The paper\ndefines the MAXQ hierarchy, proves formal results on its representational\npower, and establishes five conditions for the safe use of state abstractions.\nThe paper presents an online model-free learning algorithm, MAXQ-Q, and proves\nthat it converges wih probability 1 to a kind of locally-optimal policy known\nas a recursively optimal policy, even in the presence of the five kinds of\nstate abstraction. The paper evaluates the MAXQ representation and MAXQ-Q\nthrough a series of experiments in three domains and shows experimentally that\nMAXQ-Q (with state abstractions) converges to a recursively optimal policy much\nfaster than flat Q learning. The fact that MAXQ learns a representation of the\nvalue function has an important benefit: it makes it possible to compute and\nexecute an improved, non-hierarchical policy via a procedure similar to the\npolicy improvement step of policy iteration. The paper demonstrates the\neffectiveness of this non-hierarchical execution experimentally. Finally, the\npaper concludes with a comparison to related work and a discussion of the\ndesign tradeoffs in hierarchical reinforcement learning.",
+    "categories": [
+      "cs.LG",
+      "I.2.6"
+    ],
+    "published": "1999-05-21T14:26:07Z",
+    "updated": "1999-05-21T14:26:07Z",
+    "abstract_stats": {
+      "total_words": 223,
+      "unique_words": 99,
+      "total_sentences": 7,
+      "avg_words_per_sentence": 31.857142857142858,
+      "avg_word_length": 5.367713004484305
+    }
+  },
+  {
+    "arxiv_id": "9905015v1",
+    "title": "State Abstraction in MAXQ Hierarchical Reinforcement Learning",
+    "authors": [
+      "Thomas G. Dietterich"
+    ],
+    "abstract": "Many researchers have explored methods for hierarchical reinforcement\nlearning (RL) with temporal abstractions, in which abstract actions are defined\nthat can perform many primitive actions before terminating. However, little is\nknown about learning with state abstractions, in which aspects of the state\nspace are ignored. In previous work, we developed the MAXQ method for\nhierarchical RL. In this paper, we define five conditions under which state\nabstraction can be combined with the MAXQ value function decomposition. We\nprove that the MAXQ-Q learning algorithm converges under these conditions and\nshow experimentally that state abstraction is important for the successful\napplication of MAXQ-Q learning.",
+    "categories": [
+      "cs.LG",
+      "I.2.6"
+    ],
+    "published": "1999-05-21T14:49:39Z",
+    "updated": "1999-05-21T14:49:39Z",
+    "abstract_stats": {
+      "total_words": 104,
+      "unique_words": 50,
+      "total_sentences": 5,
+      "avg_words_per_sentence": 20.8,
+      "avg_word_length": 5.721153846153846
+    }
+  },
+  {
+    "arxiv_id": "0001004v1",
+    "title": "Multiplicative Algorithm for Orthgonal Groups and Independent Component\n  Analysis",
+    "authors": [
+      "Toshinao Akuzawa"
+    ],
+    "abstract": "The multiplicative Newton-like method developed by the author et al. is\nextended to the situation where the dynamics is restricted to the orthogonal\ngroup. A general framework is constructed without specifying the cost function.\nThough the restriction to the orthogonal groups makes the problem somewhat\ncomplicated, an explicit expression for the amount of individual jumps is\nobtained. This algorithm is exactly second-order-convergent. The global\ninstability inherent in the Newton method is remedied by a\nLevenberg-Marquardt-type variation. The method thus constructed can readily be\napplied to the independent component analysis. Its remarkable performance is\nillustrated by a numerical simulation.",
+    "categories": [
+      "cs.LG",
+      "G.1.6"
+    ],
+    "published": "2000-01-07T06:20:53Z",
+    "updated": "2000-01-07T06:20:53Z",
+    "abstract_stats": {
+      "total_words": 103,
+      "unique_words": 62,
+      "total_sentences": 8,
+      "avg_words_per_sentence": 12.875,
+      "avg_word_length": 5.747572815533981
+    }
+  },
+  {
+    "arxiv_id": "0002006v1",
+    "title": "Multiplicative Nonholonomic/Newton -like Algorithm",
+    "authors": [
+      "Toshinao Akuzawa",
+      "Noboru Murata"
+    ],
+    "abstract": "We construct new algorithms from scratch, which use the fourth order cumulant\nof stochastic variables for the cost function. The multiplicative updating rule\nhere constructed is natural from the homogeneous nature of the Lie group and\nhas numerous merits for the rigorous treatment of the dynamics. As one\nconsequence, the second order convergence is shown. For the cost function,\nfunctions invariant under the componentwise scaling are choosen. By identifying\npoints which can be transformed to each other by the scaling, we assume that\nthe dynamics is in a coset space. In our method, a point can move toward any\ndirection in this coset. Thus, no prewhitening is required.",
+    "categories": [
+      "cs.LG",
+      "G.1.6"
+    ],
+    "published": "2000-02-09T06:44:28Z",
+    "updated": "2000-02-09T06:44:28Z",
+    "abstract_stats": {
+      "total_words": 108,
+      "unique_words": 58,
+      "total_sentences": 7,
+      "avg_words_per_sentence": 15.428571428571429,
+      "avg_word_length": 5.12962962962963
+    }
+  },
+  {
+    "arxiv_id": "0009001v3",
+    "title": "Complexity analysis for algorithmically simple strings",
+    "authors": [
+      "Andrei N. Soklakov"
+    ],
+    "abstract": "Given a reference computer, Kolmogorov complexity is a well defined function\non all binary strings. In the standard approach, however, only the asymptotic\nproperties of such functions are considered because they do not depend on the\nreference computer. We argue that this approach can be more useful if it is\nrefined to include an important practical case of simple binary strings.\nKolmogorov complexity calculus may be developed for this case if we restrict\nthe class of available reference computers. The interesting problem is to\ndefine a class of computers which is restricted in a {\\it natural} way modeling\nthe real-life situation where only a limited class of computers is physically\navailable to us. We give an example of what such a natural restriction might\nlook like mathematically, and show that under such restrictions some error\nterms, even logarithmic in complexity, can disappear from the standard\ncomplexity calculus.\n  Keywords: Kolmogorov complexity; Algorithmic information theory.",
+    "categories": [
+      "cs.LG",
+      "E.4; F.2; I.2"
+    ],
+    "published": "2000-09-05T18:54:58Z",
+    "updated": "2002-02-26T01:51:09Z",
+    "abstract_stats": {
+      "total_words": 154,
+      "unique_words": 72,
+      "total_sentences": 7,
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 5.376623376623376
+    }
+  }
+]

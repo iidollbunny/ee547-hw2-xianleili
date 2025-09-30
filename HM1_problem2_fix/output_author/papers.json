@@ -1,0 +1,66 @@
+[
+  {
+    "arxiv_id": "1006.0448v1",
+    "title": "Emergence of Complex-Like Cells in a Temporal Product Network with Local\n  Receptive Fields",
+    "authors": [
+      "Karo Gregor",
+      "Yann LeCun"
+    ],
+    "abstract": "We introduce a new neural architecture and an unsupervised algorithm for\nlearning invariant representations from temporal sequence of images. The system\nuses two groups of complex cells whose outputs are combined multiplicatively:\none that represents the content of the image, constrained to be constant over\nseveral consecutive frames, and one that represents the precise location of\nfeatures, which is allowed to vary over time but constrained to be sparse. The\narchitecture uses an encoder to extract features, and a decoder to reconstruct\nthe input from the features. The method was applied to patches extracted from\nconsecutive movie frames and produces orientation and frequency selective units\nanalogous to the complex cells in V1. An extension of the method is proposed to\ntrain a network composed of units with local receptive field spread over a\nlarge image of arbitrary size. A layer of complex cells, subject to sparsity\nconstraints, pool feature units over overlapping local neighborhoods, which\ncauses the feature units to organize themselves into pinwheel patterns of\norientation-selective receptive fields, similar to those observed in the\nmammalian visual cortex. A feed-forward encoder efficiently computes the\nfeature representation of full images.",
+    "categories": [
+      "cs.NE"
+    ],
+    "published": "2010-06-02T17:08:29Z",
+    "updated": "2010-06-02T17:08:29Z",
+    "abstract_stats": {
+      "total_words": 191,
+      "unique_words": 95,
+      "total_sentences": 7,
+      "avg_words_per_sentence": 27.285714285714285,
+      "avg_word_length": 5.554973821989528
+    }
+  },
+  {
+    "arxiv_id": "1105.5307v1",
+    "title": "Efficient Learning of Sparse Invariant Representations",
+    "authors": [
+      "Karol Gregor",
+      "Yann LeCun"
+    ],
+    "abstract": "We propose a simple and efficient algorithm for learning sparse invariant\nrepresentations from unlabeled data with fast inference. When trained on short\nmovies sequences, the learned features are selective to a range of orientations\nand spatial frequencies, but robust to a wide range of positions, similar to\ncomplex cells in the primary visual cortex. We give a hierarchical version of\nthe algorithm, and give guarantees of fast convergence under certain\nconditions.",
+    "categories": [
+      "cs.CV",
+      "cs.NE"
+    ],
+    "published": "2011-05-26T14:31:58Z",
+    "updated": "2011-05-26T14:31:58Z",
+    "abstract_stats": {
+      "total_words": 71,
+      "unique_words": 42,
+      "total_sentences": 3,
+      "avg_words_per_sentence": 23.666666666666668,
+      "avg_word_length": 5.507042253521127
+    }
+  },
+  {
+    "arxiv_id": "1108.1169v1",
+    "title": "Learning Representations by Maximizing Compression",
+    "authors": [
+      "Karol Gregor",
+      "Yann LeCun"
+    ],
+    "abstract": "We give an algorithm that learns a representation of data through\ncompression. The algorithm 1) predicts bits sequentially from those previously\nseen and 2) has a structure and a number of computations similar to an\nautoencoder. The likelihood under the model can be calculated exactly, and\narithmetic coding can be used directly for compression. When training on digits\nthe algorithm learns filters similar to those of restricted boltzman machines\nand denoising autoencoders. Independent samples can be drawn from the model by\na single sweep through the pixels. The algorithm has a good compression\nperformance when compared to other methods that work under random ordering of\npixels.",
+    "categories": [
+      "cs.CV"
+    ],
+    "published": "2011-08-04T19:00:14Z",
+    "updated": "2011-08-04T19:00:14Z",
+    "abstract_stats": {
+      "total_words": 106,
+      "unique_words": 52,
+      "total_sentences": 6,
+      "avg_words_per_sentence": 17.666666666666668,
+      "avg_word_length": 5.386792452830188
+    }
+  }
+]

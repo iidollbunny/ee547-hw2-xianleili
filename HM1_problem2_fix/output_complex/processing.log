@@ -1,0 +1,2 @@
+[2025-09-30T02:43:50.039051 UTC] Starting ArXiv query: cat:cs.LG AND ti:transformer AND submittedDate:[20220101 TO 20230101]
+[2025-09-30T02:43:50.039698 UTC] Network error: URL can't contain control characters. '/api/query?search_query=cat:cs.LG AND ti:transformer AND submittedDate:[20220101 TO 20230101]&max_results=5' (found at least ' ')

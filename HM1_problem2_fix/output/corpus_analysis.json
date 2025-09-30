@@ -1,0 +1,263 @@
+{
+  "query": "cat:cs.LG",
+  "papers_processed": 10,
+  "processing_timestamp": "2025-09-30T02:43:24.555045 UTC",
+  "corpus_stats": {
+    "total_abstracts": 10,
+    "total_words": 1429,
+    "unique_words_global": 560,
+    "avg_abstract_length": 142.9,
+    "longest_abstract_words": 233,
+    "shortest_abstract_words": 78
+  },
+  "top_50_words": [
+    {
+      "word": "to",
+      "frequency": 38
+    },
+    {
+      "word": "for",
+      "frequency": 19
+    },
+    {
+      "word": "learning",
+      "frequency": 16
+    },
+    {
+      "word": "maxq",
+      "frequency": 11
+    },
+    {
+      "word": "paper",
+      "frequency": 10
+    },
+    {
+      "word": "it",
+      "frequency": 10
+    },
+    {
+      "word": "decision",
+      "frequency": 9
+    },
+    {
+      "word": "method",
+      "frequency": 9
+    },
+    {
+      "word": "function",
+      "frequency": 7
+    },
+    {
+      "word": "state",
+      "frequency": 7
+    },
+    {
+      "word": "policy",
+      "frequency": 7
+    },
+    {
+      "word": "order",
+      "frequency": 7
+    },
+    {
+      "word": "hierarchical",
+      "frequency": 6
+    },
+    {
+      "word": "q",
+      "frequency": 6
+    },
+    {
+      "word": "performance",
+      "frequency": 6
+    },
+    {
+      "word": "classifier",
+      "frequency": 6
+    },
+    {
+      "word": "data",
+      "frequency": 6
+    },
+    {
+      "word": "approach",
+      "frequency": 5
+    },
+    {
+      "word": "target",
+      "frequency": 5
+    },
+    {
+      "word": "value",
+      "frequency": 5
+    },
+    {
+      "word": "conditions",
+      "frequency": 5
+    },
+    {
+      "word": "domains",
+      "frequency": 5
+    },
+    {
+      "word": "show",
+      "frequency": 5
+    },
+    {
+      "word": "analysis",
+      "frequency": 5
+    },
+    {
+      "word": "algorithms",
+      "frequency": 5
+    },
+    {
+      "word": "complexity",
+      "frequency": 5
+    },
+    {
+      "word": "case",
+      "frequency": 5
+    },
+    {
+      "word": "hybrid",
+      "frequency": 5
+    },
+    {
+      "word": "induction",
+      "frequency": 5
+    },
+    {
+      "word": "inductive",
+      "frequency": 5
+    },
+    {
+      "word": "logic",
+      "frequency": 5
+    },
+    {
+      "word": "programming",
+      "frequency": 5
+    },
+    {
+      "word": "tilde",
+      "frequency": 5
+    },
+    {
+      "word": "ilp",
+      "frequency": 5
+    },
+    {
+      "word": "its",
+      "frequency": 4
+    },
+    {
+      "word": "abstractions",
+      "frequency": 4
+    },
+    {
+      "word": "algorithm",
+      "frequency": 4
+    },
+    {
+      "word": "experimentally",
+      "frequency": 4
+    },
+    {
+      "word": "important",
+      "frequency": 4
+    },
+    {
+      "word": "actions",
+      "frequency": 4
+    },
+    {
+      "word": "under",
+      "frequency": 4
+    },
+    {
+      "word": "cost",
+      "frequency": 4
+    },
+    {
+      "word": "class",
+      "frequency": 4
+    },
+    {
+      "word": "robust",
+      "frequency": 4
+    },
+    {
+      "word": "clustering",
+      "frequency": 4
+    },
+    {
+      "word": "trees",
+      "frequency": 4
+    },
+    {
+      "word": "system",
+      "frequency": 4
+    },
+    {
+      "word": "tree",
+      "frequency": 4
+    },
+    {
+      "word": "examples",
+      "frequency": 4
+    },
+    {
+      "word": "setting",
+      "frequency": 4
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [
+      "RL",
+      "TIC",
+      "LDS",
+      "ROC",
+      "VAPS",
+      "ILP",
+      "MAXQ",
+      "MB",
+      "ROCCH",
+      "SARSA",
+      "MDP"
+    ],
+    "numeric_terms": [
+      "1",
+      "100",
+      "000"
+    ],
+    "hyphenated_terms": [
+      "non-hierarchical",
+      "Cross-validation",
+      "locally-optimal",
+      "Levenberg-Marquardt",
+      "Tilde-LDS",
+      "top-down",
+      "attribute-value",
+      "trade-off",
+      "real-life",
+      "Tilde-classic",
+      "non-Markovian",
+      "cross-validation",
+      "Newton-like",
+      "second-order",
+      "real-world",
+      "MAXQ-Q",
+      "model-free",
+      "Top-down"
+    ]
+  },
+  "category_distribution": {
+    "cs.LG": 10,
+    "I.2.6": 5,
+    "G.1.6": 2,
+    "E.4; F.2; I.2": 1,
+    "I.2.6 ; I.2.3": 1,
+    "I.2.8;I.2.6;I.2.11;I.2;I.2.3": 1
+  }
+}

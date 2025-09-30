@@ -1,0 +1,290 @@
+{
+  "query": "ti:transformer",
+  "papers_processed": 10,
+  "processing_timestamp": "2025-09-30T02:43:49.690873 UTC",
+  "corpus_stats": {
+    "total_abstracts": 10,
+    "total_words": 1244,
+    "unique_words_global": 580,
+    "avg_abstract_length": 124.4,
+    "longest_abstract_words": 303,
+    "shortest_abstract_words": 15
+  },
+  "top_50_words": [
+    {
+      "word": "to",
+      "frequency": 27
+    },
+    {
+      "word": "for",
+      "frequency": 18
+    },
+    {
+      "word": "v",
+      "frequency": 11
+    },
+    {
+      "word": "transformation",
+      "frequency": 11
+    },
+    {
+      "word": "transformer",
+      "frequency": 9
+    },
+    {
+      "word": "action",
+      "frequency": 9
+    },
+    {
+      "word": "models",
+      "frequency": 8
+    },
+    {
+      "word": "e",
+      "frequency": 7
+    },
+    {
+      "word": "g",
+      "frequency": 7
+    },
+    {
+      "word": "visual",
+      "frequency": 6
+    },
+    {
+      "word": "model",
+      "frequency": 6
+    },
+    {
+      "word": "tint",
+      "frequency": 6
+    },
+    {
+      "word": "magnets",
+      "frequency": 6
+    },
+    {
+      "word": "fine",
+      "frequency": 5
+    },
+    {
+      "word": "paper",
+      "frequency": 5
+    },
+    {
+      "word": "group",
+      "frequency": 5
+    },
+    {
+      "word": "rotation",
+      "frequency": 5
+    },
+    {
+      "word": "boost",
+      "frequency": 5
+    },
+    {
+      "word": "s",
+      "frequency": 5
+    },
+    {
+      "word": "new",
+      "frequency": 4
+    },
+    {
+      "word": "patches",
+      "frequency": 4
+    },
+    {
+      "word": "representations",
+      "frequency": 4
+    },
+    {
+      "word": "not",
+      "frequency": 4
+    },
+    {
+      "word": "language",
+      "frequency": 4
+    },
+    {
+      "word": "2",
+      "frequency": 4
+    },
+    {
+      "word": "quantum",
+      "frequency": 4
+    },
+    {
+      "word": "space",
+      "frequency": 4
+    },
+    {
+      "word": "transform",
+      "frequency": 4
+    },
+    {
+      "word": "our",
+      "frequency": 4
+    },
+    {
+      "word": "architecture",
+      "frequency": 3
+    },
+    {
+      "word": "features",
+      "frequency": 3
+    },
+    {
+      "word": "attention",
+      "frequency": 3
+    },
+    {
+      "word": "transformers",
+      "frequency": 3
+    },
+    {
+      "word": "local",
+      "frequency": 3
+    },
+    {
+      "word": "high",
+      "frequency": 3
+    },
+    {
+      "word": "performance",
+      "frequency": 3
+    },
+    {
+      "word": "tnt",
+      "frequency": 3
+    },
+    {
+      "word": "16",
+      "frequency": 3
+    },
+    {
+      "word": "4",
+      "frequency": 3
+    },
+    {
+      "word": "words",
+      "frequency": 3
+    },
+    {
+      "word": "representation",
+      "frequency": 3
+    },
+    {
+      "word": "1",
+      "frequency": 3
+    },
+    {
+      "word": "state",
+      "frequency": 3
+    },
+    {
+      "word": "large",
+      "frequency": 3
+    },
+    {
+      "word": "pre",
+      "frequency": 3
+    },
+    {
+      "word": "trained",
+      "frequency": 3
+    },
+    {
+      "word": "internal",
+      "frequency": 3
+    },
+    {
+      "word": "construction",
+      "frequency": 3
+    },
+    {
+      "word": "many",
+      "frequency": 3
+    },
+    {
+      "word": "design",
+      "frequency": 3
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [
+      "TNT",
+      "ACT",
+      "DC",
+      "CV",
+      "GV",
+      "OPT",
+      "ICL",
+      "MLP",
+      "GM"
+    ],
+    "numeric_terms": [
+      "125M",
+      "H_2",
+      "1D",
+      "2",
+      "16",
+      "1",
+      "4",
+      "5",
+      "7",
+      "81",
+      "HMDB51",
+      "UCF101",
+      "125"
+    ],
+    "hyphenated_terms": [
+      "non-relativistic",
+      "Littlewood-Paley",
+      "huawei-noah",
+      "state-of",
+      "cross-category",
+      "V-E",
+      "pre-trained",
+      "the-art",
+      "in-context",
+      "2-layer",
+      "fine-tuning",
+      "CV-Backbones",
+      "top-1",
+      "fine-tune",
+      "Hamilton-Jacobi",
+      "high-level",
+      "Fourier-Mukai",
+      "end-to",
+      "OPT-125M",
+      "form-invariant",
+      "4-16",
+      "magneto-statics",
+      "one-step"
+    ]
+  },
+  "category_distribution": {
+    "cs.CV": 2,
+    "cs.AI": 1,
+    "cs.CL": 1,
+    "cs.LG": 1,
+    "hep-th": 2,
+    "gr-qc": 1,
+    "quant-ph": 1,
+    "math.GR": 1,
+    "math.RA": 1,
+    "20N05, 20N99": 1,
+    "math.FA": 1,
+    "math.CV": 1,
+    "math.RT": 1,
+    "43A85, 32M99, 43A32, 46E10, 47A60, 47A67, 47C99, 81R30": 1,
+    "physics.gen-ph": 1,
+    "physics.class-ph": 1,
+    "math.AG": 1,
+    "cs.GR": 1,
+    "math.DG": 1,
+    "53C44": 1
+  }
+}
